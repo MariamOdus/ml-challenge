@@ -6,9 +6,9 @@ This project works as a complete machine learning journey using Spotify music da
 Along the way, we will compare the strengths, limitations, and practical suitability of each algorithm for different types of analytical questions, such as predicting song popularity, classifying tracks by genre or mood, and identifying patterns in user listening behavior.
 
 ## Dataset
-**Spotify Audio Features & Lyrics Dataset**
-- 18,000+ songs with audio features, lyrics, and metadata
-- Source: [Kaggle](https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs)
+Each Machine learning odel has its own dataset, each can be found in individual implementations or alternatively in the data folder of the project. Below are a compliation of the data sources used. 
+- Sources: [Kaggle](https://www.kaggle.com/datasets)
+- Sources: [UC Irvine](https://archive.ics.uci.edu/)
 
 ## Models Explored
 - [x] Day 1: Linear Regression
