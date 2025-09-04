@@ -1,12 +1,14 @@
-# 🎵 14 Days of ML: Spotify Music Analysis Challenge
+# 14 Days of ML: Machine Learning Algorithms Challenge
 
 ## Overview
-This project works as a complete machine learning journey using Spotify music data, exploring and evaluating 13 different machine learning algorithms. The goal is to understand how a wide range of models — from simple approaches like linear regression to more advanced methods such as neural networks — can be applied to extract insights from music-related features.
+This project works as a complete machine learning journey using Spotify music data, exploring and evaluating 13 different machine learning algorithms. The goal is to understand how a wide range of models — from simple approaches like linear regression to more advanced methods such as neural networks — can be applied to extract insights from data.
 
-Along the way, we will compare the strengths, limitations, and practical suitability of each algorithm for different types of analytical questions, such as predicting song popularity, classifying tracks by genre or mood, and identifying patterns in user listening behavior.
+Along the way, we will compare the strengths, limitations, and practical suitability of each algorithm for different types of analytical questions, such as prediction, Classification, and identifying patterns.
+
+The aim of this challenge is to work as a fun way to learn the theory about each of the popular machine learning odels, it starts with researching each one, learning the maths and theory behind them and then practising the implementation of a relevant dataset. By the end of this the aim is to have written 14 different files describing and evaluating each model and a final evaluation on the experience learnig about each model and their strengths and limitations in answering questions.
 
 ## Dataset
-Each Machine learning odel has its own dataset, each can be found in individual implementations or alternatively in the data folder of the project. Below are a compliation of the data sources used. 
+Each Machine Learning Model has its own dataset, each can be found in individual implementations or alternatively in the data folder of the project. Below are a compliation of the data sources used. 
 - Sources: [Kaggle](https://www.kaggle.com/datasets)
 - Sources: [UC Irvine](https://archive.ics.uci.edu/)
 
