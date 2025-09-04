@@ -12,7 +12,7 @@ Each Machine learning odel has its own dataset, each can be found in individual 
 
 ## Models Explored
 - [x] Day 1: Linear Regression
-- [ ] Day 2: Logisitic Regression  
+- [x] Day 2: Logisitic Regression  
 - [ ] Day 3: Decision Trees
 - [ ] Day 4: Random Forest
 - [ ] Day 5: Gradient Boosting
