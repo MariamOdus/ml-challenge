@@ -1,7 +1,7 @@
 # 14 Days of ML: Machine Learning Algorithms Challenge
 
 ## Overview
-This project works as a complete machine learning journey using Spotify music data, exploring and evaluating 13 different machine learning algorithms. The goal is to understand how a wide range of models — from simple approaches like linear regression to more advanced methods such as neural networks — can be applied to extract insights from data.
+This project works as a complete machine learning journey using different data, exploring and evaluating 13 different machine learning algorithms. The goal is to understand how a wide range of models — from simple approaches like linear regression to more advanced methods such as neural networks — can be applied to extract insights from data.
 
 Along the way, we will compare the strengths, limitations, and practical suitability of each algorithm for different types of analytical questions, such as prediction, Classification, and identifying patterns.
 
